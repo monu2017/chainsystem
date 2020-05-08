@@ -1,3 +1,4 @@
 <?php
-print "" hello tesing pipeline"
+print "hello right code";[D;
+
 ?>
