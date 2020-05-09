@@ -1,5 +1,5 @@
 <?php
-pppprint "hello right code test"
+print "hello right code test"
 
 ?>
 
