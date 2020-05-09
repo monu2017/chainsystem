@@ -1,5 +1,5 @@
 <?php
-print "hello right code";
+print "hello right code test";
 
 ?>
-test
+
